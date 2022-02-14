@@ -1,4 +1,7 @@
+matplotlib
+medpy
 numpy
 pandas
-matplotlib
+opencv-python
 scikit-image
+sklearn
